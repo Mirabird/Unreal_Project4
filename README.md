@@ -5,7 +5,7 @@
 [Смотреть видео на Vimeo](https://vimeo.com/1031526987/248cec758c?share=copy)
 
 ### 🎥 Скачать видео
-[Скачать видео](https://github.com/Mirabird/Unreal_Project4/blob/Pic_Video/1.mp4?raw=true)
+[Скачать видео](https://github.com/Mirabird/Unreal_Project4/blob/Pic_Video/1.mp4)
 
 ## 🖼 Скриншоты
 ### Скриншот 1 

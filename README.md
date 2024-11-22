@@ -2,17 +2,17 @@
 
 Проект виртуальной прогулки по заброшенному замку, созданный на Unreal Engine 4.
 
-  ### 🎥 Видеодемонстрация
+## 🎥 Видеодемонстрация
 
-<iframe width="560" height="315" 
-        src="ttps://vimeo.com/1031526987/248cec758c?share=copy" 
-        title="YouTube video player" 
+<iframe src="https://player.vimeo.com/video/1031526987" 
+        width="640" 
+        height="360" 
         frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allow="autoplay; fullscreen; picture-in-picture" 
         allowfullscreen>
 </iframe>
 
-[Смотреть видео отдельно](https://vimeo.com/1031526987/248cec758c?share=copy)
+[Смотреть видео на Vimeo](https://vimeo.com/1031526987/248cec758c?share=copy)
 
 
 ## 🖼 Скриншоты

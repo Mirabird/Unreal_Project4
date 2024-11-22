@@ -9,5 +9,9 @@
 ### Скриншот 1 
 ![Общий вид замка](https://github.com/Mirabird/Unreal_Project4/blob/Pic_Video/elmirabell-highresscreenshot00017.jpg?raw=true)
 
+### Скриншот 2
+![Вид2](https://github.com/Mirabird/Unreal_Project4/blob/Pic_Video/elmirabell-highresscreenshot00006.jpg?raw=true)
 
+### Скриншот 3
+![Вид2](https://github.com/Mirabird/Unreal_Project4/blob/Pic_Video/elmirabell-highresscreenshot00008.jpg?raw=true)
 

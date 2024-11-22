@@ -30,3 +30,12 @@
 ### Скриншот 8
 ![Вид8](https://github.com/Mirabird/Unreal_Project4/blob/Pic_Video/elmirabell-highresscreenshot00013.jpg?raw=true)
 
+### Скриншот 9
+![Вид9](https://github.com/Mirabird/Unreal_Project4/blob/Pic_Video/elmirabell-highresscreenshot00018.jpg?raw=true)
+
+### Скриншот 10
+![Вид10](https://github.com/Mirabird/Unreal_Project4/blob/Pic_Video/elmirabell-highresscreenshot00019.jpg?raw=true)
+
+### Скриншот 11
+![Вид11](https://github.com/Mirabird/Unreal_Project4/blob/Pic_Video/elmirabell-highresscreenshot00020.jpg?raw=true)
+

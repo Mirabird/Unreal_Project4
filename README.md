@@ -2,8 +2,15 @@
 
 Проект виртуальной прогулки по заброшенному замку, созданный на Unreal Engine 4.
 
-## 🎬 Видео проекта
- [Посмотреть видео](https://github.com/Mirabird/Unreal_Project4/blob/Pic_Video/1.mp4)
+  ### 🎥 Видеодемонстрация
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/Mirabird/Unreal_Project4/blob/Pic_Video/1.mp4?raw=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+[Смотреть видео отдельно](https://github.com/Mirabird/Unreal_Project4/blob/Pic_Video/1.mp4?raw=true)
+
 
 ## 🖼 Скриншоты
 ### Скриншот 1 

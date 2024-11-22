@@ -4,12 +4,15 @@
 
   ### 🎥 Видеодемонстрация
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/Mirabird/Unreal_Project4/blob/Pic_Video/1.mp4?raw=true" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" 
+        src="ttps://vimeo.com/1031526987/248cec758c?share=copy" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
 
-[Смотреть видео отдельно](https://github.com/Mirabird/Unreal_Project4/blob/Pic_Video/1.mp4?raw=true)
+[Смотреть видео отдельно](https://vimeo.com/1031526987/248cec758c?share=copy)
 
 
 ## 🖼 Скриншоты
